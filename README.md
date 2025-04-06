@@ -19,7 +19,7 @@ O desafio é simples: **tente adivinhar o número secreto de 0 a 10**.
 
 ---
 
-## 💡 Como rodar localmente
+## 💻 Como rodar localmente
 
 1. Clone o repositório:
 ```bash
